@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "text": "Xanderkroft have been an invaluable partner on multiple projects, We wouldn't rather work with anyone else",
+        "thumb": "testimonial1.png",
+        "name": "Ejiro Ikekeregor",
+        "designation": "BlueVena limited"
+    },
+    {
+        "id": 2,
+        "text": "Working with Xanderkroft has been a transformative experience for our business",
+        "thumb": "testimonial2.png",
+        "name": "Clinton Nwagbara",
+        "designation": "Cevon-edge limited"
+    },
+    {
+        "id": 3,
+        "text": "They always be our goto recommendation for any one who values quality and professionalism",
+        "thumb": "testimonial1.png",
+        "name": "Owen Uhiene",
+        "designation": "Valser limited"
+    }
+]

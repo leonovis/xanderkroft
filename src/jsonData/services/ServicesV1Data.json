@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "activeClass": "active",
+        "name": "Supplier Identification & Vetting",
+        "thumb": "service1.png",
+        "thumbFull1": "service-single1-1.jpg",
+        "thumbFull2": "service-single1-2.jpg",
+        "text": "Global network of pre-qualified vendors, rigorous due diligence (financial stability, compliance, ESG alignment).",
+        "price": "3000",
+        "icon": "service-icon1.svg"
+    },
+    {
+        "id": 2,
+        "activeClass": "",
+        "name": "Contract Lifecycle Management",
+        "thumb": "service2.png",
+        "thumbFull1": "service-single2-1.jpg",
+        "thumbFull2": "service-single2-2.jpg",
+        "text": "Custom contracts with favorable terms (SLAs, penalties, exit clauses) with strict Adherence to local/international regulations (FAR, UCC, ISO 20400).",
+        "price": "4000",
+        "icon": "service-icon2.svg"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "name": "Tailored Procurement Solutions",
+        "thumb": "service3.png",
+        "thumbFull1": "service-single3-1.jpg",
+        "thumbFull2": "service-single3-2.jpg",
+        "text": "Direct Procurement- Tailored solutions for direct procurement, including sourcing, negotiation, and supplier management & Indirect Procurement including MRO supplies, IT services, and facilities management.",
+        "price": "3500",
+        "icon": "service-icon3.svg"
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "name": "Technology-Driven Efficiency",
+        "thumb": "service4.png",
+        "thumbFull1": "service-single4-1.jpg",
+        "thumbFull2": "service-single4-2.jpg",
+        "text": "AI-powered spend analytics, e-procurement platforms, and PO automation.",
+        "price": "4500",
+        "icon": "service-icon4.svg"
+    }
+]
