@@ -27,11 +27,11 @@ const TeamDetailsContent = ({ memberData }: { memberData: DataType }) => {
                             <ul>
                                 <li>
                                     <strong>Email:</strong>
-                                    <a href="mailto:support@digital.com">alexwabali@xanderkroft.com</a>
+                                    <a href="mailto:alexwabali@xanderkroft.com">alexwabali@xanderkroft.com</a>
                                 </li>
                                 <li>
                                     <strong>Phone:</strong>
-                                    <a href="tel:123-456-7890">+2347059741489</a>
+                                    <a href="tel:+2347059741489">+2347059741489</a>
                                 </li>
                             </ul>
                             <div className="button">
